@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hola, soy Camilo Pérez
 
-<!--
-**imcamiloperez/imcamiloperez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)
 
-Here are some ideas to get you started:
+💻 Aprendiendo Java, SQL, Git y desarrollo de software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Learning → Building → Sharing
+
+## 📚 Actualmente aprendiendo
+
+- Java
+- SQL
+- Git & GitHub
+- Programación Orientada a Objetos
+
+## 🛠️ Tecnologías y herramientas
+
+- Java
+- SQL
+- Git & GitHub
+- HTML & CSS
+- JavaScript
+- VS Code
+
+## 🚀 Proyectos destacados
+
+Actualmente construyendo proyectos como parte de mi formación en DAM.
+
+## 🌐 Conecta conmigo
+
+- 💼 [LinkedIn](TU_ENLACE_DE_LINKEDIN)
+- 📸 [Instagram](TU_ENLACE_DE_INSTAGRAM)
