@@ -8,15 +8,13 @@
 
 ## 📚 Actualmente aprendiendo
 
-- Java
-- SQL
+- Python 
 - Git & GitHub
 - Programación Orientada a Objetos
 
 ## 🛠️ Tecnologías y herramientas
 
-- Java
-- SQL
+- Python 
 - Git & GitHub
 - HTML & CSS
 - JavaScript
